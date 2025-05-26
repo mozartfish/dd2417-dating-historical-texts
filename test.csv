@@ -1,0 +1,2 @@
+This is an example of training dataset. You would have this kinds of passages !; 1850
+In the CSV file, the datapoint is a row of words, and the last one is the label of the passage.; 1730
