@@ -26,6 +26,12 @@ Use a validation set ?
 
 Metrics : Confusion matrix 
 
+## Models 
+1. DistillBert (transformer architecture)
+2. BIGRU (Assignment 4) - avoid LSTMs at all costs
+3. Logistic Regression (Assignment 2)
+4. Pretrained Glove Embeddings 
+
 ## Books 
 ### 1700 
 1. The Battle of the Books, and other Short Pieces 
