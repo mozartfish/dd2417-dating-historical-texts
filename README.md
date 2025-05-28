@@ -111,47 +111,47 @@ Metrics : Confusion matrix
 5. Adonais
 6. Anne of Geierstein; Or, The Maiden of the Mist. Volume 2 (of 2) 
 ### 1830 
-1. 
-2. 
-3. 
-4.  
-6.
+1. The Narrative of Arthur Gordon Pym of Nantucket
+2. Oliver Twist
+3. Sartor Resartus: The Life and Opinions of Herr Teufelsdröckh
+4. Crotchet Castle
+5. Paul Clifford — Complete
+6. The doctor, &c., vol. 2 (of 7)
 ### 1840
-1.
-2. 
-3. 
-4. 
-5. 
+1.  Wuthering Heights
+2. The Count of Monte Crist
+3. Jane Eyre: An Autobiography
+4. A Christmas Carol
+5. Vanity Fair
+6. Agnes Grey
 ### 1850 
-1.
-2. 
-3. 
-4. 
-5. 
-
+1. Uncle Tom's Cabin
+2. Walden, and On The Duty Of Civil Disobedience
+3. Madame Bovary
+4. Moby Dick; Or, The Whale
+5. The Scarlet Letter
+6. Leaves of Grass
 ### 1860
-1.
-2. 
-3. 
-4. 
-5. 
-
+1. Alice's Adventures in Wonderland
+2. Little Women
+3. Great Expectations
+4. Drum-Taps
+5. Adam Bede
 ### 1870 
-1.
-2. 
-3. 
-4. 
-5. 
+1. Middlemarch
+2. Daniel Deronda
+3. The Law and the Lady
+4. The Way We Live Now
+5. The Return of the Native
 ### 1880 
-1.
-2. 
-3. 
-4. 
-5. 
-
+1. The Strange Case of Dr. Jekyll and Mr. Hyde
+2. Adventures of Huckleberry Finn
+3. Treasure Island
+4. King Solomon's Mines
+5. She
 ### 1890 
-1.
-2. 
-3. 
-4. 
-5. 
+1. The Time Machine
+2. The War of the Worlds
+3. The Jungle Book
+4. Dracula
+5. The Picture of Dorian Gray
